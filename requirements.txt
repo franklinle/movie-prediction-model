@@ -1,0 +1,11 @@
+fsspec
+pandas
+swifter
+sklearn
+xgboost
+numpy
+scikit-learn-intelex
+joblib
+requests
+grequests
+lxml
